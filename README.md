@@ -57,10 +57,9 @@ The Fitness React App is designed to provide users with an engaging platform to 
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
-- Rapid API: Source of exercise data.
+- Rapid API: Source of exercise-data api and youtube api.
 - HTML & CSS: Structure and style of the app.
-- JavaScript: Programming language for app functionality.
-- YouTube API: Integration of YouTube videos.
+- JavaScript: Programming language for app functionality. 
 
 ## Contributing
 
